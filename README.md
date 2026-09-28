@@ -32,12 +32,22 @@ This project focuses on strategic planning and data exploration for a logistics 
 7. Findings, limitations, and recommendations
 
 ## Repository Contents
-- `README.md`: project overview and workflow
+- `README.md`: project overview, objectives, KPIs, and project workflow
 - `Week1_Logistics_Strategic_Planning_Report.docx`: Week 1 strategic planning report
-- Future Python notebook and analysis files will be added as the project progresses.
+- `logistics_analysis.ipynb`: Python notebook containing data creation, KPI calculations, exploratory data analysis, zone-level analysis, visualizations, and key findings
 
 ## Project Status
-Week 1: Strategic planning and data exploration roadmap. Predictive modeling and operational results are planned future activities; no model performance or business improvement is claimed yet.
+
+Week 1 completed:
+- Logistics business problem defined
+- Sample shipment dataset created
+- KPIs calculated
+- Data exploration completed
+- Zone-level analysis completed
+- Visualizations created
+- Initial findings documented
+
+Future work may include working with a larger real-world dataset, delivery-time prediction, clustering, and further operational analysis.
 
 ## Author
 Koushalya Palei
